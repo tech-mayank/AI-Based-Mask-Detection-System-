@@ -35,7 +35,7 @@ techmayank2000@gmail.com
 [![Watch the video](https://github.com/tech-mayank/AI-Based-Mask-Detection-System-/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=u7VBWjoKNkQ)
 
 ## :clap: VideoLink as a sample output for social distancing system
-[![Watch the video]()](https://youtu.be/taAlsE78Vv4)
+[![Watch the video](https://github.com/tech-mayank/AI-Based-Mask-Detection-System-/blob/master/191.png)](https://youtu.be/taAlsE78Vv4)
 
 ## :clap: Use Cases
 ✔ Can be used at hospitals<br />
