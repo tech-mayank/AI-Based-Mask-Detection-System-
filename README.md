@@ -1,7 +1,7 @@
-<h1 align="center">Deepfake Avatar</h1>
+<h1 align="center">AI Based Mask Detection System</h1>
 
 <div align= "center">
-  <h4>AI Based Mask Detection System</h4>
+  <h4>It is used to detect whether people are wearing mask or not.</h4>
 </div>
 
 ## :innocent: Motivation
