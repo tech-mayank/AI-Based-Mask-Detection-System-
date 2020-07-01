@@ -10,10 +10,10 @@ During the Covid-19 times when everyone was busy lamenting over the problems the
  
 ## :star: Unique Selling Point
 ✔I am continuously trying to make the working place more safer using multiple precautionary steps and technology.<br />
-✔This is my contribution to check if the person is wearing mask or not.
-✔Red: mask Pink: no_mask : with their detection probabilities on top of each bounding box.
-✔This system is highly scalable and can detect multiple streams in optimal time.
-✔This has great use in surveillance and security purpose to find out who all are following the rules.
+✔This is my contribution to check if the person is wearing mask or not.<br />
+✔Red: mask Pink: no_mask : with their detection probabilities on top of each bounding box.<br />
+✔This system is highly scalable and can detect multiple streams in optimal time.<br />
+✔This has great use in surveillance and security purpose to find out who all are following the rules.<br />
 
 ## :key: How to install
 It is a software that can take feed from existing CCTV/IP cameras and show the results.
@@ -23,10 +23,10 @@ Feel free to mail us for any doubts/query
 techmayank2000@gmail.com
 
 ## :clap: VideoLink as a sample output
-[![Watch the video]](https://www.youtube.com/watch?v=u7VBWjoKNkQ)
+[![Watch the video]()](https://www.youtube.com/watch?v=u7VBWjoKNkQ)
 
 ## :clap: Use Cases
-✔ Can be used at hospitals
-✔ Can be used at Railway Stations
-✔ Can be used at Crowded Areas
-✔ Can be used at Market Places and Malls
+✔ Can be used at hospitals<br />
+✔ Can be used at Railway Stations<br />
+✔ Can be used at Crowded Areas<br />
+✔ Can be used at Market Places and Malls<br />
