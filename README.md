@@ -23,7 +23,7 @@ Feel free to mail us for any doubts/query
 techmayank2000@gmail.com
 
 ## :clap: VideoLink as a sample output
-[![Watch the video]()](https://www.youtube.com/watch?v=u7VBWjoKNkQ)
+[![Watch the video](https://github.com/tech-mayank/AI-Based-Mask-Detection-System-/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=u7VBWjoKNkQ)
 
 ## :clap: Use Cases
 ✔ Can be used at hospitals<br />
