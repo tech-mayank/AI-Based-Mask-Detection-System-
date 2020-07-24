@@ -9,9 +9,9 @@
   <h4>Prevention is better than cure</h4>
 </div>
 
-WHO advises to wear mask and prevent touching Nose, Face and Eyes.<br />
-There is no vaccine till now, and wearing masks is one of the only way to get rid of this virus.<br />
-Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.<br />
+✔WHO advises to wear mask and prevent touching Nose, Face and Eyes.<br />
+✔There is no vaccine till now, and wearing masks is one of the only way to get rid of this virus.<br />
+✔Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.<br />
  
 ## :star: Unique Selling Point (Mask Detection System)
 ✔I am continuously trying to make the working place more safer using multiple precautionary steps and technology.<br />
